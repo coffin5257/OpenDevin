@@ -1,0 +1,36 @@
+{
+  "en": {
+    "UNSUPPORTED_FILE_TYPE_ERROR": "Unsupported file type. Please select a jpg, png, mp4, or pdf file."
+  },
+  "zh-CN": {
+    "UNSUPPORTED_FILE_TYPE_ERROR": "不支持的文件类型。请选择 jpg、png、mp4 或 pdf 文件。"
+  },
+  "zh-TW": {
+    "UNSUPPORTED_FILE_TYPE_ERROR": "不支援的檔案類型。請選擇 jpg、png、mp4 或 pdf 檔案。"
+  },
+  "de": {
+    "UNSUPPORTED_FILE_TYPE_ERROR": "Nicht unterstützter Dateityp. Bitte wählen Sie eine jpg-, png-, mp4- oder pdf-Datei aus."
+  },
+  "fr": {
+    "UNSUPPORTED_FILE_TYPE_ERROR": "Type de fichier non pris en charge. Veuillez sélectionner un fichier jpg, png, mp4 ou pdf."
+  },
+  "ko-KR": {
+    "UNSUPPORTED_FILE_TYPE_ERROR": "지원되지 않는 파일 형식입니다. jpg, png, mp4 또는 pdf 파일을 선택하십시오."
+  },
+  "no": {
+    "UNSUPPORTED_FILE_TYPE_ERROR": "Ikke støttet filtype. Vennligst velg en jpg-, png-, mp4- eller pdf-fil."
+  },
+  "it": {
+    "UNSUPPORTED_FILE_TYPE_ERROR": "Tipo di file non supportato. Si prega di selezionare un file jpg, png, mp4 o pdf."
+  },
+  "pt": {
+    "UNSUPPORTED_FILE_TYPE_ERROR": "Tipo de arquivo não suportado. Por favor, selecione um arquivo jpg, png, mp4 ou pdf."
+  },
+  "es": {
+    "UNSUPPORTED_FILE_TYPE_ERROR": "Tipo de archivo no compatible. Por favor, seleccione un archivo jpg, png, mp4 o pdf."
+  },
+  "ar": {
+    "UNSUPPORTED_FILE_TYPE_ERROR": "نوع الملف غير مدعوم. يرجى اختيار ملف jpg أو png أو mp4 أو pdf."
+  }
+}
+
